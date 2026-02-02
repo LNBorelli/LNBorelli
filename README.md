@@ -1,4 +1,4 @@
-## Que onda!! 👋
+# Que onda!! 👋
 # Me llamo **Lucas** y estoy aprendiendo a utilizar *GitHub*
 
 <!--
