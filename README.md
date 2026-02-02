@@ -1,5 +1,11 @@
-# Que onda!! 👋
-# Me llamo **Lucas** y estoy aprendiendo a utilizar *GitHub*
+# Hola! Mi nombre es Lucas Borelli 🫠
+## Estoy aprendiendo a programar en mis tiempos libres, y mis primeras practicas las hice con `Excel` 📋 y `Python` 🐍
+
+### En 2023 comence cursos de programacion basica para aprender sobre conceptos basicos  y a programar pero recien en el año 2024 comence a progrmar de forma autodidacta con Python. Ahora en el año 2026 estoy por ingresar a la carrera de **Analista en Sistema** en **IES 21 - Colegio Universitario IES Siglo 21**. Soy de la Republica de Cordoba (Argentina) cuna de Fernet con Coca, de los paisajes serranos y donde le decimos pururu.
+
+### Mis objetivo es poder aprender a programar y encontrar mi camino en el mundo tech
+
+### Me gusta viajar, pasar tirmpo al aire libre, jugar videojuegos, cocinar y escuchar musica.
 
 <!--
 **LNBorelli/LNBorelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
