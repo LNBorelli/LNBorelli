@@ -1,4 +1,5 @@
-# Hi there 👋
+## Que onda!! 👋
+# Me llamo **Lucas** y estoy aprendiendo a utilizar *GitHub*
 
 <!--
 **LNBorelli/LNBorelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
