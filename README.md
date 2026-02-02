@@ -4,13 +4,16 @@
 #### En 2023 comencé cursos de programación básica para aprender los conceptos fundamentales. Recién en 2024 empecé a programar de forma autodidacta con Python, profundizando y practicando por mi cuenta. Actualmente, en 2026, estoy por ingresar a la carrera de **Analista en Sistemas** en **IES 21 – Colegio Universitario IES Siglo 21**.
 
 ### 📌 **De donde soy?**
-#### Soy de la República de Córdoba (Argentina): cuna del fernet con coca, de los paisajes serranos y del infaltable pururú 🌄🍿.
+#### Soy de la República de Córdoba (Argentina): Cuna del fernet con coca, de los paisajes serranos y de la gente que habla bonito 🌄.
 
-### 🎯 **Objetivo**
+### 🎯 **Objetivos**
 #### Aprender a programar de manera sólida y encontrar mi camino dentro del mundo tech.
 
 ### 🎮 **Intereses**
 #### Me gusta viajar, pasar tiempo al aire libre, jugar videojuegos, cocinar y escuchar música.
+
+### 🔭 **Que estoy aprendiendo?**
+#### Actualmente estoy aprendiendo tecnologías base como `HTML`, `Power Query`, `Power BI` y `Python`, con el objetivo de construir una base sólida en programación. Los proximos lenguaje que me gustarian aprender son `JavaScript` y `C++`. Me encuentro explorando distintas áreas del mundo tech (backend, datos y web) para descubrir en cuál especializarme a futuro.
 
 <!--
 **LNBorelli/LNBorelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
