@@ -13,7 +13,7 @@
 #### Me gusta viajar, pasar tiempo al aire libre, jugar videojuegos, cocinar y escuchar música.
 
 ### 🔭 **Que estoy aprendiendo?**
-#### Actualmente estoy aprendiendo tecnologías base como `HTML`, `Power Query`, `Power BI` y `Python`, con el objetivo de construir una base sólida en programación. Los proximos lenguaje que me gustarian aprender son `JavaScript` y `C++`. Me encuentro explorando distintas áreas del mundo tech (backend, datos y web) para descubrir en cuál especializarme a futuro.
+#### Actualmente estoy aprendiendo tecnologías base como `C#`, `SQL` y `Python`, con el objetivo de construir una base sólida en programación. Los proximos lenguaje que me gustarian aprender son `HTML`, `CSS`, `Javascript` y `Typescript`. Me encuentro explorando distintas áreas del mundo tech (backend, datos y web) para descubrir en cuál especializarme a futuro.
 
 <!--
 **LNBorelli/LNBorelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
