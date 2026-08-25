@@ -1,34 +1,60 @@
-## Hola! Mi nombre es Lucas Borelli 👀
-### Estoy aprendiendo a programar en mis tiempos libres. Mis primeras prácticas las hice con `Excel` 📋 y `Python` 🐍.
+# **👋 Hola, soy Lucas Borelli**
 
-#### En 2023 comencé cursos de programación básica para aprender los conceptos fundamentales. Recién en 2024 empecé a programar de forma autodidacta con Python, profundizando y practicando por mi cuenta. Actualmente, en 2026, estoy por ingresar a la carrera de **Analista en Sistemas** en **IES 21 – Colegio Universitario IES Siglo 21**.
+### 💻 **Estudiante de Analista en Sistemas | C# · Python · SQL · Excel · Power BI**
 
-### 📌 **De donde soy?**
-#### Soy de la República de Córdoba (Argentina): Cuna del fernet con coca y de los paisajes serranos.
+#### Estoy construyendo mi camino en el mundo de la tecnología, combinando programación, análisis de datos y automatización.
 
-### 🎯 **Objetivos**
-#### Aprender a programar de manera sólida y encontrar mi camino dentro del mundo tech.
+#### Mis primeras experiencias fueron trabajando con **Excel**, donde descubrí mi interés por los datos y la resolución de problemas. Posteriormente comencé a estudiar programación y, desde 2024, desarrollo proyectos de manera autodidacta utilizando principalmente **Python**.
 
-### 🎮 **Intereses**
-#### Me gusta viajar, pasar tiempo al aire libre, jugar videojuegos, cocinar y escuchar música.
+#### Actualmente estoy profundizando mis conocimientos en **C# y .NET**, desarrollando aplicaciones con **Windows Forms**, mientras continúo fortaleciendo mis conocimientos de **SQL, Python, Git y GitHub**.
 
-### 💻 **Skills Técnicas**
-### `Excel`, `Power BI`, `SQL`, `Python`, `C#`, `GIT`, `GitHub`, `.NET / WinForms`
+### **🚀 Sobre mí**
 
-### 🔭 **Que estoy aprendiendo?**
-#### Actualmente estoy aprendiendo tecnologías base como `C#`, `SQL` y `Python`, con el objetivo de construir una base sólida en programación. Los proximos lenguaje que me gustarian aprender son `HTML`, `CSS`, `Javascript` y `Typescript`. Me encuentro explorando distintas áreas del mundo tech (backend, datos y web) para descubrir en cuál especializarme a futuro.
+ - 🎓 Estudiante de **Analista en Sistemas**
+ - 💻 Interesado en **programación, datos y desarrollo de software**
+ - 📊 Experiencia práctica con **Excel y Power BI**
+ - 🐍 Desarrollo proyectos utilizando **Python**
+ - 🔷 Actualmente aprendiendo **C# y .NET**
+ - 🌱 Explorando diferentes áreas de IT para definir mi futura especialización
+ - 🛠️ Me gusta aprender creando proyectos y resolviendo problemas reales
 
-<!--
-**LNBorelli/LNBorelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **🧰 Tecnologías y herramientas**
 
-Here are some ideas to get you started:
+#### **Lenguajes**
+C# · Python · SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Frameworks y desarrollo**
+.NET · Windows Forms
+
+### **Datos y análisis**
+Excel · Power BI
+
+### **Herramientas**
+Git · GitHub · Visual Studio
+
+### **🎯 Objetivo**
+
+#### Mi objetivo es construir una base sólida en programación y tecnología, desarrollar proyectos que me permitan aplicar lo aprendido y encontrar progresivamente el área de IT en la que quiero especializarme.
+
+#### Actualmente estoy explorando principalmente:
+
+- 🔷 **Desarrollo de software / Backend**
+- 📊 **Data Analytics / Business Intelligence**
+- 🌐 **Desarrollo Web**
+
+#### A futuro me gustaría profundizar en **HTML, CSS, JavaScript y TypeScript**, además de continuar avanzando con C#, .NET, SQL y Python.
+
+### **📍 Un poco más sobre mí**
+
+#### Soy de **Córdoba, Argentina** 🇦🇷
+
+#### Me gusta viajar, pasar tiempo al aire libre, cocinar, escuchar música y jugar videojuegos.
+
+#### Y sí... también soy orgullosamente de la **República de Córdoba** 🧉
+
+### **📫 Contacto**
+
+#### - 💻 GitHub: [Lucas Borelli](https://github.com/)
+#### - 💼 LinkedIn: [Lucas Borelli](https://www.linkedin.com/)
+
+⭐ _Siempre aprendiendo, siempre construyendo._
